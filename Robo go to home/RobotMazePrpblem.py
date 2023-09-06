@@ -1,10 +1,12 @@
 # Backtracking
-
 maze = [[".", ".", ".", "."],
         [".", "X", "X", "X"],
         [".", ".", ".", "X"],
         ["X", "X", ".", "."]]
-
+# maze = [["ROBOT IS HERE", ".", ".", "."],
+#         [".", "X", "X", "X"],
+#         [".", ".", ".", "X"],
+#         ["X", "X", ".", "HOME_IS_HERE(Fixed)"]]
 
 def print_maze(maze):
     for row in maze:
