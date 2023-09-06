@@ -39,7 +39,7 @@ else:
 
 ## GitHub README
 
-**Repository Name**: Maze-Solver-Backtracking
+**Repository Name**: Robo Go To Home
 
 **Description**: This repository contains a Python implementation of a maze-solving algorithm using backtracking. The algorithm finds a path from the top-left corner to the bottom-right corner of a maze while avoiding obstacles.
 
